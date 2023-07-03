@@ -42,9 +42,5 @@ function deletefromserver(file='File path', script_php="script php path", data_t
         })
 }
 
-let num_let = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-
-deletefromserver("data.json", "DFS.php", [2, 6]);
 
 
