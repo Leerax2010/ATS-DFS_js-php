@@ -1,0 +1,12 @@
+
+Для добавления элемента в файл нужно
+createtoserver(Путь к файлу в который будет добавлятся данные, путь к исполняемоему файлу php ATS.php, [массив, из данных, для добавления, лучше данные и словари указать в виде строки])
+
+Для удаления элемента из файла нужно
+deletefromserver(Путь к файлу из которого будут удалятся данные, путь к исполняемоему файлу php DFS.php, [массив, из данных, для удаления, данные указывать такие как есть])
+
+To add an element to the file you need
+createtoserver(Path to file where data will be added, path to executable file php ATS.php, [array, from data, to add, better specify data and dictionaries as string])
+
+To delete an element from the file
+deletefromserver(Path to file from which data will be removed, path to executable file DFS.php, [array, from data, for removing, specify data as it is])
